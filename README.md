@@ -173,7 +173,7 @@ Building a modern blogging platform requires a robust backend for content manage
 
 ## Acknowledgments 🙏
 
-A special thank you to **GraphCMS** for providing a powerful headless CMS platform and **Tailwind CSS** for simplifying the UI design process. Also, thanks to the open-source community for sharing invaluable resources and solutions.
+A special thank you to **GraphCMS** for providing a powerful headless CMS platform and **Tailwind CSS** for simplifying the UI design process.
 
 ## Contributing 🤝
 
